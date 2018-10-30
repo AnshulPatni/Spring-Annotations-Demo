@@ -11,5 +11,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/springsource-tool-suite-3.9.5.RELEASE-e4.8.0-updatesite/plugins/org.eclipse.ajdt.core_2.2.4.201805281636.jar"/>
+	<classpathentry kind="lib" path="C:/springsource-tool-suite-3.9.5.RELEASE-e4.8.0-updatesite/plugins/javax.annotation-api-1.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
